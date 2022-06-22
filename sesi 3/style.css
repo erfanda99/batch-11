@@ -1,0 +1,21 @@
+ /* selector element */
+ h2 {
+    color: blue;
+    background-color: grey;
+    text-align: center;
+}
+/* selector ID */
+#paragraf {
+    color: lightcoral;
+}
+/* selector Class */
+.bg-beige {
+    background-color: beige;
+}
+
+h1 {
+    color: red;
+    background-color: aqua;
+    font-size: 24px; font-weight: bold; 
+    text-align: center;
+}
